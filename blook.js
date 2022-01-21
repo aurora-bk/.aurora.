@@ -2,7 +2,7 @@
 const Blooket = require('blooket')
 const client = new Blooket();
 const a = ''
-const name = 'hPJJzhs6AM'
+const name = ''
 
 client.joinGame(a , name+'-1', 'Frost Wreath')
 client.joinGame(a , name+'-2', 'Tropical Wreath')
