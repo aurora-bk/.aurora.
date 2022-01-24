@@ -1,4 +1,4 @@
-//EDITED BY AURPRA
+//EDITED BY AURORA
 const Blooket = require('blooket')
 const client = new Blooket();
 const a = ''
